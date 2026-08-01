@@ -2985,7 +2985,7 @@ Partial Class Form1
         Me.Name = "Form1"
         Me.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide
         Me.StartPosition = System.Windows.Forms.FormStartPosition.Manual
-        Me.Text = "信号机点灯原理"
+        Me.Text = "信号机点灯模拟系统"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
